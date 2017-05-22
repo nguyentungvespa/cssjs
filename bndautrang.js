@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me nguyentung.benthanhford@gmail.com
+//website http://giaxefordvietnam.net/ or http://vespachinhhang.com/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
