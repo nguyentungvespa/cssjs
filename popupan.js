@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://bit.ly/2r5pMZJ';
+	var url_popup = 'https://bit.ly/2JUlk5B';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/2qnU2NR';
+	  // var url_ppp = 'https://bit.ly/2JUTE0l';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
