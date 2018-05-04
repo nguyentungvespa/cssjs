@@ -1,5 +1,5 @@
-//please contact me nguyentung.benthanhford@gmail.com
-//website http://giaxefordvietnam.net/ or http://vespachinhhang.com/
+//please contact me nguyentungtoyota@gmail.com
+//website http://www.toyotalythuongkiet.online/ or http://www.toyotatayninh.online/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2jmQCbC' target='_blank'><img src='http://vespachinhhang.com/wp-content/uploads/bannerblog.jpg' width='500px'/><br/>Hướng dẫn thủ tục mua Vespa trả góp toàn Quốc</a>. Liên hệ Hotline 0937.636.993. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2jmQCbC' target='_blank'><img src='https://xetoyotatayninh.com/wp-content/uploads/2018/04/bảng-giá-xe-toyota-tại-tây-ninh-7-1-1.jpg' width='500px'/><br/>Hướng dẫn thủ tục mua Toyota trả góp toàn Quốc</a>. Liên hệ Hotline 093.652.28 28 Mr.Tùng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
