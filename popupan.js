@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2HOiNNp';
+	var url_popup = 'https://giaxetoyotasg.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'https://xetoyotatayninh.com/';
