@@ -1,5 +1,5 @@
 //please contact me nguyentungtoyota@gmail.com
-//website http://www.toyotalythuongkiet.online/ or http://www.toyotatayninh.online/
+//website https://giaxetoyotasg.vn/
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2jmQCbC' target='_blank'><img src='https://xetoyotatayninh.com/wp-content/uploads/2018/04/bảng-giá-xe-toyota-tại-tây-ninh-7-1-1.jpg' width='500px'/><br/>Hướng dẫn thủ tục mua Toyota trả góp toàn Quốc</a>. Liên hệ Hotline 093.652.28 28 Mr.Tùng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://giaxetoyotasg.vn/thu-tuc-mua-xe-toyota-tra-gop-tai-thanh-pho-hcm-va-ca-nuoc/' target='_blank'><img src='https://xetoyotatayninh.com/wp-content/uploads/2018/04/bảng-giá-xe-toyota-tại-tây-ninh-7-1-1.jpg' width='500px'/><br/>Hướng dẫn thủ tục mua Toyota trả góp toàn Quốc</a>. Liên hệ Hotline 093.652.28 28 Mr.Tùng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
